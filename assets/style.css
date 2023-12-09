@@ -419,3 +419,9 @@ a, a:hover {
   border-radius: 12px;
   transition: all .3s;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
