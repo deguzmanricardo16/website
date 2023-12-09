@@ -222,6 +222,10 @@ a, a:hover {
   background: linear-gradient(45deg, #333333, #626b73);
   box-shadow: 0px 4px 30px rgba(27, 31, 34, 0.7);
 }
+.profile-card-social__item.linkedin {
+  background: linear-gradient(45deg, #123b64, #0a66c2);
+  box-shadow: 0px 4px 30px rgba(27, 31, 34, 0.7);
+}
 .profile-card-social__item.codepen {
   background: linear-gradient(45deg, #324e63, #414447);
   box-shadow: 0px 4px 30px rgba(55, 75, 90, 0.7);
